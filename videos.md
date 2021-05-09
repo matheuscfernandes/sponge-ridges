@@ -6,11 +6,13 @@
 
 ## Intro
 
-Page outlining supplementary videos. Additioal related videos can be found [this playlist](http://fer.me/incline-videos)
+Page outlining supplementary videos. Additioal related videos can be found [this playlist](http://fer.me/sponge-videos)
 
 
-<!-- {% include youtubePlayer.html id="u16FjNGMoEs?autoplay=1" %} -->
-## Supplementary Video 1
+{% include youtubePlayer.html id="cXkuSkEhNoI?autoplay=1" %}
+
+
+<!-- ## Supplementary Video 1
 <p style="text-align: center;">
  <iframe src="https://www.dropbox.com/s/f6wg0811bn5zjom/Fig1.mp4?raw=1" 
     width="100%" 
@@ -79,7 +81,7 @@ Page outlining supplementary videos. Additioal related videos can be found [this
     allow="autoplay; encrypted-media"
     allowfullscreen>
 </iframe> 
-</p>
+</p> -->
 
 <!-- ## Supplementary Video 6
 <p style="text-align: center;">
