@@ -19,3 +19,7 @@ All supporting videos can be found here: [VIDEOS](./videos)
 All supporting information can be found here: [SUPPLEMENTARY INFORMATION](./si)
 
 If there are additional suggested changes or improvements to the code, please submit a GitHub pull request and email me at [(fernandes@seas.harvard.edu)](mailto:fernandes@seas.harvard.edu).
+
+## Supporting Video
+
+{% include youtubePlayer.html id="ExPy4rWqDPM?autoplay=1" %}
