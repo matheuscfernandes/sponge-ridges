@@ -14,11 +14,11 @@ From the discovery of functionally graded laminated composites, to near-structur
 
 ## Supporting Material
 
-All supporting videos can be found here: [VIDEOS](https://drive.google.com/drive/folders/1S7ATPILZcW2O5Z0-nS71xrwCuGCcdp4x?usp=sharing)
+All supporting videos can be found here: [VIDEOS](https://drive.google.com/drive/folders/0BwhqWZtgjTIkfmtaT0N4VWozWkxtSktzaldpQW93Vl85TXVnU05fR1JwWUtKdnhoTkZtS0U?resourcekey=0-FGkjd_73NyaHYAI2wdsytw&usp=sharing)
 
 All supporting information can be found here: [SUPPLEMENTARY INFORMATION](./si)
 
-If there are additional suggested changes or improvements to the code, please submit a GitHub pull request and email me at [(fernandes@seas.harvard.edu)](mailto:fernandes@seas.harvard.edu).
+If there are additional suggested changes or improvements to the code, please submit a GitHub pull request and contact me at [contact](https://fer.me/cont)
 
 ## Supporting Video
 
