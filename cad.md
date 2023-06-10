@@ -1,4 +1,4 @@
-# Supplementary Information
+# Supplementary CAD Files
 
 <span style="font-size:larger;">[Back to Main](./)</span>
 
