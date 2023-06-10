@@ -18,7 +18,7 @@ All supporting videos can be found here: [VIDEOS](https://drive.google.com/drive
 
 All supporting information can be found here: [SUPPLEMENTARY INFORMATION](./si)
 
-All supporting CAD Files can be found here: [SUPPLEMENTARY INFORMATION](./cad)
+All supporting CAD Files can be found here: [CAD FILES](./cad)
 
 If there are additional suggested changes or improvements to the code, please submit a GitHub pull request and contact me at [contact](https://fer.me/cont)
 
