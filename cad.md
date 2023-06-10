@@ -4,6 +4,10 @@
 
 <p>&nbsp;</p>
 
+Each folder contains CAD files for porous large, small and non-porous versions of design. Also included are the structural beam-like structures. 
+
+<p>&nbsp;</p>
+
 <!-- {% include youtubePlayer.html id="u16FjNGMoEs?autoplay=1" %} -->
 ## CAD Files
 <p style="text-align: center;">
