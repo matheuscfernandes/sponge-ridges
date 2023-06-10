@@ -4,7 +4,8 @@
 
 <p>&nbsp;</p>
 
-Each folder contains CAD files for porous large, small and non-porous versions of design. Also included are the structural beam-like structures. 
+## Files Description 
+Respective folders containing CAD files for geometries presented in paper. These include: porous large, small and non-porous versions of the hydrodynamc designs. Also included are the structural analysis designs.
 
 <p>&nbsp;</p>
 
